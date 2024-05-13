@@ -1,1 +1,1 @@
-# HMS
+# Python game of snake
